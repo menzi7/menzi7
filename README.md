@@ -31,7 +31,7 @@
 - :book: &nbsp;Learn more about me and my projects on my **[website]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-
+<br>
 <!-- skills -->
 <h2 align="left" id="menzi-skills">Favorite Tech</h2>
 
