@@ -28,7 +28,6 @@
 - :office: &nbsp;I'm currently working at **tba**
 - :seedling: &nbsp;I’m always working on my **[homelab]**
 - :speech_balloon: &nbsp;I like talking about **network security** and **OSS**
-- :book: &nbsp;Learn more about me and my projects on my **[website]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 <br>
