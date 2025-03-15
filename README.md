@@ -6,8 +6,8 @@
   <a href="https://github.com/menzi7/menzi7">
     <img src="https://komarev.com/ghpvc/?username=menzi7" alt="page views" />
   </a>
-  <a href="https://menzi.dk">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmenzi.dk">
+  <a href="https://pi.menzi.dk:3001/status/operationalstatus">
+    <img alt="Homelab" src="https://img.shields.io/badge/homelab-status-green">
   </a>
   <a href="https://www.linkedin.com/in/tobiasmenzi/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
